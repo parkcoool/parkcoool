@@ -14,3 +14,5 @@ I've developed a strong interest in web frontend development, but I'm also drawn
  * Learning 📖
    * ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
    * [NLP](https://parkcoool.notion.site/NLP-46931011304445289d4a2709a8f8588e?pvs=4)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkak1345)](https://solved.ac/gkak1345/)
