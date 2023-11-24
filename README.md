@@ -3,7 +3,7 @@ I'm a first-year student marjoring Computer Science & Engineering in Konkuk Univ
 
 I've developed a strong interest in web frontend development.
 
-Also drawn to AI, particularly in the field of [Natural Language Processing (NLP)](https://parkcoool.notion.site/NLP-46931011304445289d4a2709a8f8588e?pvs=4).
+Also drawn to AI, particularly in the field of [Natural Language Processing (NLP)](https://parkcool.tistory.com/category/%EA%B3%B5%EB%B6%80%20%EC%9D%BC%EC%A7%80/NLP).
 
  * Skills 🔥
 
