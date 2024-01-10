@@ -3,8 +3,6 @@ I'm a first-year student marjoring Computer Science & Engineering in Konkuk Univ
 
 I've developed a strong interest in web frontend development.
 
-Also drawn to AI, particularly in the field of [Natural Language Processing (NLP)](https://parkcool.tistory.com/category/%EA%B3%B5%EB%B6%80%20%EC%9D%BC%EC%A7%80/NLP).
-
 My portfolio is available [here](
 https://parkcoool.notion.site/115d6c788e5c4a689ee2c2c0ab6844e3?pvs=4).
 
@@ -16,12 +14,18 @@ https://parkcoool.notion.site/115d6c788e5c4a689ee2c2c0ab6844e3?pvs=4).
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
 
  * Learning 📖
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 
  * Algorithm 🧩
 
