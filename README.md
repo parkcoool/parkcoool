@@ -3,7 +3,7 @@ I'm a first-year student marjoring Computer Science & Engineering in Konkuk Univ
 
 I've developed a strong interest in web frontend development.
 
-My portfolio is available [here](
+My portfolio in Korean is available [here](
 https://parkcoool.notion.site/115d6c788e5c4a689ee2c2c0ab6844e3?pvs=4).
 
 
