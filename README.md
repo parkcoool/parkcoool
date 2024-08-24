@@ -16,7 +16,7 @@ I have a great interest in web development, whether it be backend or frontend.
 My portfolio in Korean is available [here](https://parkcoool.notion.site/115d6c788e5c4a689ee2c2c0ab6844e3?pvs=4).
 
 
- * Skills
+### Skills 🔥
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -28,7 +28,3 @@ My portfolio in Korean is available [here](https://parkcoool.notion.site/115d6c7
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
- * Learning
-
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
