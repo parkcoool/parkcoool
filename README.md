@@ -1,13 +1,13 @@
 ### Hi there 👋
-저는 건국대학교 컴퓨터공학부를 전공하는 1학년 학생입니다. (현재 휴학 중)
+저는 건국대학교 컴퓨터공학부를 전공하는 1학년 학생이며, 지금은 휴학 중입니다.
 
-I'm a first-year student marjoring Computer Science & Engineering in Konkuk University (currently on leave of absence).
+I'm a first-year student majoring in Computer Science & Engineering at Konkuk University, currently on a leave of absence due to military service.
 
 
 
-저는 백엔드와 프론트엔드를 막론하고 웹 개발에 큰 흥미가 있습니다.
+앱과 웹 개발에 큰 흥미가 있으며, 백엔드와 프론트엔드, 디자인 등 모든 분야에 열정을 가지고 있습니다.
 
-I have a great interest in web development, whether it be backend or frontend.
+I have a strong passion for app and web development, whether it's backend, frontend, or even design.
 
 
 
@@ -19,12 +19,12 @@ My portfolio in Korean is available [here](https://parkcoool.notion.site/115d6c7
 ### Skills 🔥
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
