@@ -28,3 +28,8 @@ My portfolio in Korean is available [here](https://parkcoool.notion.site/115d6c7
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+### Algorithm [(repo)](https://github.com/parkcoool/Algorithm) 🧩
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkak1345)](https://solved.ac/gkak1345/)
