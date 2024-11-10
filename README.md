@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 Hi there
 저는 건국대학교 컴퓨터공학부를 전공하는 1학년 학생이며, 지금은 휴학 중입니다.
 
 I'm a first-year student majoring in Computer Science & Engineering at Konkuk University, currently on a leave of absence due to military service.
@@ -15,8 +15,9 @@ I have a strong passion for app and web development, whether it's backend, front
 
 My portfolio in Korean is available [here](https://parkcoool.notion.site/115d6c788e5c4a689ee2c2c0ab6844e3?pvs=4).
 
+---
 
-### Skills 🔥
+### 🔥 Skills
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -29,7 +30,8 @@ My portfolio in Korean is available [here](https://parkcoool.notion.site/115d6c7
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
 
-### Algorithm [(repo)](https://github.com/parkcoool/Algorithm) 🧩
+### 🧩 Algorithm [(repo)](https://github.com/parkcoool/Algorithm)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gkak1345)](https://solved.ac/gkak1345/)
