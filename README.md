@@ -1,7 +1,7 @@
 ### 👋 Hi there
 저는 건국대학교 컴퓨터공학부를 전공하는 1학년 학생이며, 지금은 휴학 중입니다.
 
-I'm a first-year student majoring in Computer Science & Engineering at Konkuk University, currently on a leave of absence due to military service.
+I'm a first-year student majoring in Computer Science & Engineering at Konkuk University, currently on a leave of absence.
 
 
 
