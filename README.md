@@ -11,9 +11,9 @@ I have a strong passion for app and web development, whether it's backend, front
 
 
 
-저의 포트폴리오는 [여기](https://parkcoool.notion.site/115d6c788e5c4a689ee2c2c0ab6844e3?pvs=4)에서 확인할 수 있습니다.
+저의 포트폴리오는 [여기](https://parkcoool.github.io/)에서 확인할 수 있습니다.
 
-My portfolio in Korean is available [here](https://parkcoool.notion.site/115d6c788e5c4a689ee2c2c0ab6844e3?pvs=4).
+My portfolio in Korean is available [here](https://parkcoool.github.io/).
 
 ---
 
