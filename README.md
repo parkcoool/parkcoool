@@ -1,19 +1,11 @@
 ### 👋 Hi there
 저는 건국대학교 컴퓨터공학부를 전공하는 1학년 학생이며, 지금은 휴학 중입니다.
 
-I'm a first-year student majoring in Computer Science & Engineering at Konkuk University, currently on a leave of absence.
-
-
-
 앱과 웹 개발에 큰 흥미가 있으며, 백엔드와 프론트엔드, 디자인 등 모든 분야에 열정을 가지고 있습니다.
 
-I have a strong passion for app and web development, whether it's backend, frontend, or even design.
+저의 포트폴리오는 [여기](https://parkcoool.github.io)에서 확인할 수 있습니다.
 
-
-
-저의 포트폴리오는 [여기](https://parkcoool.github.io/)에서 확인할 수 있습니다.
-
-My portfolio in Korean is available [here](https://parkcoool.github.io/).
+[블로그](https://parkcool.tistory.com)에 공부한 것과 개발 일지를 기록하고 있습니다.
 
 ---
 
